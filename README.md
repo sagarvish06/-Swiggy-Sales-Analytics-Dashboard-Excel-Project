@@ -18,11 +18,11 @@ This project addresses these challenges through an interactive Excel dashboard.
 ## 📊 Key Performance Indicators (KPIs)
 KPI	Description
 
-Total Revenue	Overall sales generated
-Total Orders	Number of orders placed
-Average Order Value	Revenue per order
-Average Rating	Customer satisfaction score
-Top Restaurants	Highest revenue contributors
-Top Categories	Most ordered food categories
-City-wise Sales	Revenue distribution by city
-Quarterly Growth	Sales trend analysis   
+- Total Revenue	Overall sales generated
+- Total Orders	Number of orders placed
+- Average Order Value	Revenue per order
+- Average Rating	Customer satisfaction score
+- Top Restaurants	Highest revenue contributors
+- Top Categories	Most ordered food categories
+- City-wise Sales	Revenue distribution by city
+- Quarterly Growth	Sales trend analysis   
