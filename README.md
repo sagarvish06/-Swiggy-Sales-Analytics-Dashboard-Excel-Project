@@ -59,3 +59,5 @@ The dataset contains food delivery transaction records with the following attrib
 - Evaluated customer satisfaction using ratings and reviews.
 - Identified quarterly sales trends and peak ordering periods.
 
+## 📷 Dashboard Preview
+- <a href="https://github.com/sagarvish06/-Swiggy-Sales-Analytics-Dashboard-Excel-Project/edit/main/README.md"> Main Dashboard </a>
