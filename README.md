@@ -16,13 +16,46 @@ Food delivery platforms generate large volumes of transactional data every day. 
 This project addresses these challenges through an interactive Excel dashboard.
 
 ## 📊 Key Performance Indicators (KPIs)
-KPI        Description
+- Total Revenue (₹)
+- Average Order Value (AOV)
+- Total Orders
+- Average Rating
+- Total Rating Count
+- Top Restaurants by Revenue
+- Top Food Categories
+- City-wise Sales Analysis
+- Quarterly Performance Analysis
 
-- Total Revenue	Overall sales generated
-- Total Orders	Number of orders placed
-- Average Order Value	Revenue per order
-- Average Rating	Customer satisfaction score
-- Top Restaurants	Highest revenue contributors
-- Top Categories	Most ordered food categories
-- City-wise Sales	Revenue distribution by city
-- Quarterly Growth	Sales trend analysis   
+## 🛠️ Tools & Technologies
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Power Query
+- Data Cleaning
+- Conditional Formatting
+- Slicers & Interactive Filters
+- Business Analytics
+
+## 📂 Dataset Information
+
+The dataset contains food delivery transaction records with the following attributes:
+
+- Order Date
+- State
+- City
+- Restaurant Name
+- Food Category
+- Dish Name
+- Price (₹)
+- Rating
+- Rating Count
+- Quarter
+- Day of Week
+
+## 🔍 Key Insights
+- Identified top-performing restaurants contributing the highest revenue.
+- Discovered the most popular food categories among customers.
+- Analyzed regional demand patterns across different cities.
+- Evaluated customer satisfaction using ratings and reviews.
+- Identified quarterly sales trends and peak ordering periods.
+
