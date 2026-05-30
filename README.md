@@ -16,7 +16,7 @@ Food delivery platforms generate large volumes of transactional data every day. 
 This project addresses these challenges through an interactive Excel dashboard.
 
 ## 📊 Key Performance Indicators (KPIs)
-KPI	Description
+KPI        Description
 
 - Total Revenue	Overall sales generated
 - Total Orders	Number of orders placed
