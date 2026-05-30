@@ -60,7 +60,8 @@ The dataset contains food delivery transaction records with the following attrib
 - Identified quarterly sales trends and peak ordering periods.
 
 ## 📷 Dashboard Preview
-- <a href="https://github.com/sagarvish06/-Swiggy-Sales-Analytics-Dashboard-Excel-Project/edit/main/README.md"> Main Dashboard </a>
+<img width="1907" height="926" alt="swiggy-excel-dashboard png" src="https://github.com/user-attachments/assets/b4972058-3ee6-4c96-a26d-636337e38f3b" />
+
 
 ## 💡 Business Value
 The dashboard helps businesses:
