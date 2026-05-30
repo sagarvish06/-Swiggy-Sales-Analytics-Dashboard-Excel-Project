@@ -61,3 +61,23 @@ The dataset contains food delivery transaction records with the following attrib
 
 ## 📷 Dashboard Preview
 - <a href="https://github.com/sagarvish06/-Swiggy-Sales-Analytics-Dashboard-Excel-Project/edit/main/README.md"> Main Dashboard </a>
+
+## 💡 Business Value
+The dashboard helps businesses:
+
+- Monitor sales performance
+- Understand customer behavior
+- Optimize marketing campaigns
+- Improve restaurant partnerships
+- Increase profitability through data-driven decisions
+
+## 🚀 Future Enhancements
+- Build the dashboard in Power BI
+- Add customer segmentation analysis
+- Implement forecasting models
+- Develop automated reporting workflows
+
+## 👨‍💼 Author
+- Sagar Vishwakarma
+
+## ⭐ If you found this project helpful, please consider giving it a star!
