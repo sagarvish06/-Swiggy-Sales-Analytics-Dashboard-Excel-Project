@@ -7,11 +7,11 @@ This dashboard transforms raw data into meaningful visualizations, enabling stak
 ## 🎯 Business Problem
 Food delivery platforms generate large volumes of transactional data every day. Without proper analysis, it becomes difficult to identify:
 
-High-performing restaurants
-Popular food categories
-Revenue-driving locations
-Customer satisfaction trends
-Seasonal demand patterns
+- High-performing restaurants
+- Popular food categories
+- Revenue-driving locations
+- Customer satisfaction trends
+- Seasonal demand patterns
 
 This project addresses these challenges through an interactive Excel dashboard.
 
